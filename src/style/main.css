@@ -1,0 +1,9 @@
+html {
+  font-family: PingFangSC-Regular, PingFang SC;
+}
+
+img {
+  font-size: 0 !important;
+  line-height: 0 !important;
+  border: none;
+}

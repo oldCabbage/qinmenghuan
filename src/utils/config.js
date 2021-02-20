@@ -1,0 +1,1 @@
+export const baseURL = "http://exam.blog8090.com/web"
